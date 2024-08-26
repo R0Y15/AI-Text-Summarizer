@@ -3,6 +3,8 @@
 ## Overview
 The AI-Text Summarizer is a web application that leverages advanced AI models to generate concise summaries of long texts. This project utilizes the Hugging Face Inference API for text summarization, and is built with a robust tech stack including Node.js, Express, HTML, CSS, and JavaScript.
 
+<img alt="Preview" src="./public/images/ss.jpg">
+
 ## Tech Stack
 
 ### API Platform
